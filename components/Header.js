@@ -10,7 +10,7 @@ export default function Header() {
                     <a className="mr-4 p-6">Arena</a>
                 </Link>
                 <Link href="/list-nft">
-                    <a className="mr-4 p-6">List NFT for Battle</a>
+                    <a className="mr-4 p-6">Stake your NFT for Battle</a>
                 </Link>
                 <Link href="/mint-nft">
                     <a className="mr-4 p-6">Mint Nft</a>

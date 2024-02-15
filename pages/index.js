@@ -14,7 +14,7 @@ export default function Home() {
     console.log(listedNfts)
     return (
         <div className="container mx-auto">
-            <h1 className="py-4 px-4 font-bold text-2xl">Listed NFTS:</h1>
+            <h1 className="py-4 px-4 font-bold text-2xl">NFTS:</h1>
             <h3 class="">Click on your NFT to delist. Click on smbd's NFT to attack</h3>
             <div className="flex flex-wrap">
                 {isWeb3Enabled && chainId ? (

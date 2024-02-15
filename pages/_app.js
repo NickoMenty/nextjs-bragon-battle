@@ -15,7 +15,7 @@ function MyApp({ Component, pageProps }) {
         <div>
             <Head>
                 <title>NFT Battle Arena</title>
-                <meta name="description" content="NFT Marketplace" />
+                <meta name="description" content="NFT Bragon Battle" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <MoralisProvider initializeOnMount={false}>
